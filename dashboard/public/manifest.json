@@ -1,0 +1,16 @@
+{
+  "short_name": "NeuralTrade",
+  "name": "Neural X Trade Terminal",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c0d12",
+  "theme_color": "#00f7d9",
+  "display": "standalone",
+  "orientation": "portrait"
+}
