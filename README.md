@@ -13,6 +13,8 @@ The bot allows users to place Market and Limit orders directly from a command-li
 
 The project focuses on:
 
+
+
 - Clean backend architecture
 - Binance API integration
 - Automated order execution
@@ -297,3 +299,20 @@ This project represents the combination of:
 - Artificial Intelligence
 - Automation
 - Futuristic Product Design
+  
+
+  Here are the screenshot of my project :
+  <img width="1080" height="2400" alt="Screenshot_2026-06-08-20-10-39-29_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/eff4562c-a94d-453b-9939-673f7cc10646" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-10-47-25_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/fefbffad-c7be-4d67-a31a-3c9212d32951" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-10-56-39_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/837cdc25-8bab-42f5-bf82-e51c22e3bb8c" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-11-05-24_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/20fb1217-ebf8-47c3-99f2-ab46c11af2ee" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-11-16-31_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/dc602508-79b1-4192-a18f-0e44bb68caad" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-11-21-46_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/40e8df0a-948f-461d-aafd-0c0f33f9b7a6" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-11-31-79_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/dfca75c0-6a34-4425-9be8-3ebb9f4cb247" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-11-52-90_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/98c35ee9-a8eb-4c17-a241-3e698e88a398" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-12-31-23_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/cfa605ad-64cf-40e8-b55d-c80b5eb970d7" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-12-39-32_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/c2c156a4-7109-4f7d-bc9d-5663ac99a6f3" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-12-47-05_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/f7271cc9-fb7d-4ba2-8d11-b6b7e791bf78" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-13-07-50_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/38c521b3-4864-4384-9897-d893eae2f2be" />
+<img width="1080" height="2400" alt="Screenshot_2026-06-08-20-13-35-49_99c04817c0de5652397fc8b56c3b3817" src="https://github.com/user-attachments/assets/26b02f9f-5e0d-4cfe-916a-08f1d4e1977e" />
+
